@@ -1,0 +1,1168 @@
+[
+ {
+  "slug": "aliaga",
+  "name": "Aliağa",
+  "de": "Aliağa'da",
+  "region": "kuzey",
+  "tags": [
+   "sanayi",
+   "konut",
+   "kiyi",
+   "tarim",
+   "hayvancilik"
+  ],
+  "intro": "Aliağa, İzmir'in kuzeyinde rafineri, petrokimya ve demir-çelik tesisleri ile limanlarıyla öne çıkan bir sanayi ilçesidir. Sanayinin yanında ilçe merkezinde hızla büyüyen konut alanları, kıyı şeridi ve çevre köylerdeki tarım-hayvancılık faaliyetleri bir arada bulunur.",
+  "local": "Adresimiz Aliağa Yeni Mahalle'de olduğu için ilçe merkezi ve çevre köylerdeki keşif taleplerini planlamak bizim için en kolay olanıdır.",
+  "areas": [
+   "Yeni Mahalle",
+   "Kültür",
+   "Şakran",
+   "Helvacı"
+  ],
+  "climate": "Kuzey rüzgârlarına açık kıyı kesimi ile sanayi bölgesine yakın alanlarda metal yüzeylerin korozyona karşı iyi korunması önemlidir.",
+  "neighbors": [
+   "foca",
+   "menemen",
+   "bergama",
+   "dikili"
+  ],
+  "faq": {
+   "q": "Aliağa'da keşif için nasıl randevu alabilirim?",
+   "a": "Adresimiz Aliağa'da olduğundan ilçe içindeki keşif talepleri için WhatsApp'tan konum ve kısa iş tarifi göndermeniz yeterlidir; uygun gün ve saat birlikte belirlenir."
+  },
+  "focus": [
+   "demir-dograma",
+   "ferforje",
+   "celik-konstruksiyon",
+   "celik-cati",
+   "sac-cati",
+   "endustriyel-metal-imalat",
+   "metal-imalat",
+   "celik-iskele",
+   "konteyner",
+   "sundurma-pergola",
+   "bahce-kapisi",
+   "korkuluk",
+   "kumes-yapimi",
+   "celik-surgulu-kapi",
+   "celik-yapi"
+  ]
+ },
+ {
+  "slug": "balcova",
+  "name": "Balçova",
+  "de": "Balçova'da",
+  "region": "merkez",
+  "tags": [
+   "merkez",
+   "konut"
+  ],
+  "intro": "Balçova, Narlıdere ile Konak arasında yer alan, termal tesisleri ve teleferiğiyle bilinen, büyük bölümü yerleşik konut alanlarından oluşan bir ilçedir. Apartmanlar ile yamaçlardaki müstakil ve bahçeli evler ilçenin yapı stokunu oluşturur.",
+  "local": "Balçova'daki taleplerde keşif günü, İzmir merkez ilçelerine yönelik planlama içinde belirlenir.",
+  "areas": [
+   "Korutürk",
+   "Teleferik",
+   "Onur",
+   "Eğitim"
+  ],
+  "climate": "Yamaçlardaki yapılarda rüzgâr alan cepheler ve deniz havası, dış mekân metal elemanlarında yüzey korumasını öne çıkarır.",
+  "neighbors": [
+   "narlidere",
+   "konak",
+   "karabaglar",
+   "guzelbahce"
+  ],
+  "faq": {
+   "q": "Balçova'da apartman balkon korkuluğu yenileme için ne gerekli?",
+   "a": "Balkon korkulukları cephenin parçası olduğu için apartman yönetimiyle görüşülmesi ve mümkünse tüm daireler için ortak model seçilmesi önerilir. Ölçü ve model için WhatsApp'tan fotoğraf göndermeniz ön değerlendirme için yeterlidir."
+  },
+  "focus": [
+   "demir-dograma",
+   "ferforje",
+   "korkuluk",
+   "celik-cati",
+   "sundurma-pergola"
+  ]
+ },
+ {
+  "slug": "bayindir",
+  "name": "Bayındır",
+  "de": "Bayındır'da",
+  "region": "dogu",
+  "tags": [
+   "tarim",
+   "sera",
+   "hayvancilik",
+   "konut"
+  ],
+  "intro": "Bayındır, Küçük Menderes havzasında yer alan ve süs bitkisi, fidan ile çiçek üretimiyle tanınan bir tarım ilçesidir. Sera ve açık alan üretiminin yanı sıra köylerde hayvancılık ve bahçeli müstakil yapılaşma yaygındır.",
+  "local": "Bayındır gibi iç bölge ilçelerinde keşifler, işin kapsamına göre önceden planlanarak yapılır.",
+  "areas": [
+   "ilçe merkezi",
+   "çevre köyler"
+  ],
+  "climate": "İç kesimde yaz sıcakları yüksek, kış geceleri soğuktur; sera ve depo yapılarında havalandırma ile yalıtım dengesi önem kazanır.",
+  "neighbors": [
+   "tire",
+   "odemis",
+   "torbali",
+   "kemalpasa"
+  ],
+  "faq": {
+   "q": "Bayındır'da ticari sera iskeleti için hangi bilgileri paylaşmalıyım?",
+   "a": "Sera alanının ölçüsü, yetiştirilecek ürün, tercih ettiğiniz örtü tipi (naylon veya polikarbonat) ve arazinin konumu ön değerlendirme için yeterlidir. Kesin teklif keşif sonrası verilir."
+  },
+  "focus": [
+   "sera-kurulumu",
+   "kumes-yapimi",
+   "sac-cati",
+   "celik-konstruksiyon",
+   "sundurma-pergola",
+   "bahce-kapisi",
+   "celik-cati"
+  ]
+ },
+ {
+  "slug": "bayrakli",
+  "name": "Bayraklı",
+  "de": "Bayraklı'da",
+  "region": "merkez",
+  "tags": [
+   "merkez",
+   "sanayi"
+  ],
+  "intro": "Bayraklı, yüksek iş kuleleriyle İzmir'in yeni iş merkezlerinden biri hâline gelen, aynı zamanda yoğun apartman dokusu ve kentsel dönüşüm alanlarıyla öne çıkan bir ilçedir. Yenilenen binaların yanında eski yapı stoku da hâlâ geniş yer tutar.",
+  "local": "Bayraklı'daki talepler için keşif günü, kuzey ve merkez ilçelere yönelik planlama içinde belirlenir.",
+  "areas": [
+   "Manavkuyu",
+   "Mansuroğlu",
+   "Turan",
+   "Çiçek"
+  ],
+  "climate": "Körfeze bakan yapılarda deniz havası, yüksek katlarda ise rüzgâr etkisi metal elemanların detaylandırılmasında dikkate alınır.",
+  "neighbors": [
+   "karsiyaka",
+   "bornova",
+   "konak",
+   "cigli"
+  ],
+  "faq": {
+   "q": "Bayraklı'da kentsel dönüşüm sonrası yeni binada korkuluk veya demir doğrama yaptırabilir miyim?",
+   "a": "Yeni binalarda cephe bütünlüğü için genellikle yönetim planında belirlenen standartlar bulunur. Bu standartları ve ölçüleri paylaşmanız halinde uyumlu imalat için teklif hazırlanabilir."
+  },
+  "focus": [
+   "demir-dograma",
+   "korkuluk",
+   "celik-cati",
+   "metal-merdiven",
+   "ferforje"
+  ]
+ },
+ {
+  "slug": "bergama",
+  "name": "Bergama",
+  "de": "Bergama'da",
+  "region": "kuzey",
+  "tags": [
+   "tarim",
+   "hayvancilik",
+   "turizm",
+   "tarihi",
+   "konut"
+  ],
+  "intro": "Bergama, UNESCO Dünya Mirası listesindeki antik kentiyle bilinen, geniş yüzölçümüne yayılmış köyleri ve Bakırçay ovasındaki tarım-hayvancılık faaliyetleriyle İzmir'in kuzeyindeki en büyük ilçelerden biridir.",
+  "local": "Bergama, adresimizin bulunduğu Aliağa'ya komşu ilçelerdendir; köy ve arazi işlerinde keşif planlaması konum bilgisine göre yapılır.",
+  "areas": [
+   "ilçe merkezi",
+   "Zeytindağ",
+   "Kozak yaylası köyleri",
+   "Bakırçay ovası köyleri"
+  ],
+  "climate": "Ovada yaz sıcakları, Kozak gibi yüksek kesimlerde ise kış soğukları ve zaman zaman kar görülebilir; çatı ve barınak yapıları bu koşullara göre planlanmalıdır.",
+  "neighbors": [
+   "aliaga",
+   "dikili",
+   "kinik",
+   "foca"
+  ],
+  "faq": {
+   "q": "Bergama'nın tarihi bölgelerinde metal cephe işleri için izin gerekir mi?",
+   "a": "Sit alanı veya tescilli yapı çevresinde yapılacak cephe ve yapı değişiklikleri koruma kurulu ve belediye izinlerine tabi olabilir. Başlamadan önce belediyeden bilgi almanızı öneririz."
+  },
+  "focus": [
+   "kumes-yapimi",
+   "sac-cati",
+   "celik-konstruksiyon",
+   "celik-yapi",
+   "sundurma-pergola",
+   "bahce-kapisi",
+   "ferforje",
+   "celik-cati",
+   "demir-dograma"
+  ]
+ },
+ {
+  "slug": "beydag",
+  "name": "Beydağ",
+  "de": "Beydağ'da",
+  "region": "dogu",
+  "tags": [
+   "tarim",
+   "hayvancilik",
+   "dag"
+  ],
+  "intro": "Beydağ, Küçük Menderes havzasının doğu ucunda, dağlık bir arazide yer alan ve nüfusunun önemli bir kısmı tarım ile hayvancılıkla geçinen İzmir'in küçük ilçelerinden biridir.",
+  "local": "Beydağ gibi uzak ilçelerde keşifler, iş kapsamı netleştikten sonra önceden planlanarak yapılır; ön bilgi ve fotoğraflar WhatsApp üzerinden değerlendirilebilir.",
+  "areas": [
+   "ilçe merkezi",
+   "çevre köyler"
+  ],
+  "climate": "Dağlık yapı nedeniyle kış aylarında soğuk ve kar görülebilir; çatı eğimi ve profil kesitleri kar yüküne göre seçilmelidir.",
+  "neighbors": [
+   "kiraz",
+   "odemis",
+   "bayindir",
+   "tire"
+  ],
+  "faq": {
+   "q": "Beydağ'da ahır veya ağıl çatısı için hangi kaplama uygun?",
+   "a": "Hayvan barınaklarında genellikle trapez sac yeterlidir; soğuk kış ve sıcak yaz dengesinin önemli olduğu durumlarda sandviç panel değerlendirilebilir. Havalandırma mahyası ve aydınlatma panelleri ihtiyaca göre eklenir."
+  },
+  "focus": [
+   "kumes-yapimi",
+   "sac-cati",
+   "celik-cati",
+   "sundurma-pergola"
+  ]
+ },
+ {
+  "slug": "bornova",
+  "name": "Bornova",
+  "de": "Bornova'da",
+  "region": "merkez",
+  "tags": [
+   "merkez",
+   "sanayi",
+   "konut"
+  ],
+  "intro": "Bornova, Ege Üniversitesi kampüsü, Işıkkent ve çevresindeki sanayi ve ticaret alanları ile yoğun konut bölgelerini bir arada barındıran, İzmir'in en kalabalık ilçelerinden biridir. Merkezdeki apartmanların yanında yamaçlarda müstakil ve bahçeli evler de bulunur.",
+  "local": "Bornova'daki talepler için keşif günü, merkez ilçelere yönelik planlama içinde belirlenir.",
+  "areas": [
+   "Erzene",
+   "Kazımdirik",
+   "Işıkkent",
+   "Altındağ",
+   "Doğanlar"
+  ],
+  "climate": "İç kesimde yer alan yamaç mahallelerde yaz sıcakları ve rüzgâr alan cepheler, çatı ve dış mekân metal işlerinde dikkate alınır.",
+  "neighbors": [
+   "bayrakli",
+   "buca",
+   "kemalpasa",
+   "karsiyaka"
+  ],
+  "faq": {
+   "q": "Bornova Işıkkent çevresindeki iş yerleri için ağır hizmet kapısı yapılabilir mi?",
+   "a": "Atölye ve depo girişleri için kullanım yoğunluğuna uygun kalın profilli demir kapı, kepenk veya sürgülü kapı çözümleri değerlendirilebilir. Açıklık ölçüsü ve kullanım bilgisiyle teklif hazırlanır."
+  },
+  "focus": [
+   "demir-dograma",
+   "ferforje",
+   "korkuluk",
+   "celik-cati",
+   "metal-imalat",
+   "metal-merdiven",
+   "celik-surgulu-kapi",
+   "sundurma-pergola",
+   "bahce-kapisi",
+   "konteyner"
+  ]
+ },
+ {
+  "slug": "buca",
+  "name": "Buca",
+  "de": "Buca'da",
+  "region": "merkez",
+  "tags": [
+   "merkez",
+   "konut"
+  ],
+  "intro": "Buca, İzmir'in en kalabalık ilçelerinden biri olup yoğun apartman bölgeleri, üniversite yerleşkeleri ve Kaynaklar gibi çevre mahallelerindeki bahçeli-müstakil yapılaşmayla geniş bir yerleşim alanına yayılır.",
+  "local": "Buca'daki taleplerde keşif günü, merkez ve güney ilçelere yönelik planlama içinde belirlenir.",
+  "areas": [
+   "Şirinyer",
+   "Kaynaklar",
+   "Tınaztepe",
+   "Çamlıkule",
+   "Yıldız"
+  ],
+  "climate": "Kaynaklar gibi yüksek ve açık kesimlerde rüzgâr ve kış soğuğu çatı, sundurma ve kapı detaylarında dikkate alınır.",
+  "neighbors": [
+   "bornova",
+   "karabaglar",
+   "gaziemir",
+   "torbali"
+  ],
+  "faq": {
+   "q": "Buca'da apartman çatısını çelik ile yenilemek için ne yapmalıyım?",
+   "a": "Çatı ortak alan olduğu için önce kat malikleri kararı alınmalı ve gerekiyorsa belediye izni teyit edilmelidir. Ardından keşifte mevcut çatının durumu incelenerek çelik iskelet ve kaplama önerisi hazırlanır."
+  },
+  "focus": [
+   "demir-dograma",
+   "ferforje",
+   "korkuluk",
+   "celik-cati",
+   "sundurma-pergola",
+   "bahce-kapisi",
+   "celik-konstruksiyon"
+  ]
+ },
+ {
+  "slug": "cesme",
+  "name": "Çeşme",
+  "de": "Çeşme'de",
+  "region": "yarimada",
+  "tags": [
+   "kiyi",
+   "turizm",
+   "konut"
+  ],
+  "intro": "Çeşme, Alaçatı ve Ilıca ile birlikte yaz turizminin ve yazlık konutların yoğun olduğu, rüzgârıyla bilinen bir yarımada ilçesidir. Müstakil yazlıklar, butik oteller, taş evler ve sahil işletmeleri ilçenin yapı dokusunu belirler.",
+  "local": "Çeşme ve yarımada ilçelerindeki keşifler, iş kapsamına göre önceden planlanarak yapılır.",
+  "areas": [
+   "Alaçatı",
+   "Ilıca",
+   "Dalyan",
+   "Çiftlikköy"
+  ],
+  "climate": "Güçlü ve sık esen rüzgâr ile tuzlu deniz havası; çatı, sundurma ve korkuluk bağlantılarının sağlam, yüzey korumasının ise yüksek nitelikte olmasını gerektirir.",
+  "neighbors": [
+   "urla",
+   "karaburun",
+   "seferihisar"
+  ],
+  "faq": {
+   "q": "Çeşme'de rüzgâra dayanıklı sundurma nasıl yapılır?",
+   "a": "Taşıyıcı profillerin kesiti, ankraj detayları ve örtü bağlantıları rüzgâr emme etkisine göre seçilir; açık cepheli ve hâkim rüzgâra bakan sundurmalarda bu detaylar daha da önem kazanır. Keşifte yapının konumu ve rüzgâra açıklığı değerlendirilir."
+  },
+  "focus": [
+   "ferforje",
+   "bahce-kapisi",
+   "korkuluk",
+   "sundurma-pergola",
+   "celik-yapi",
+   "celik-cati",
+   "konteyner",
+   "garaj-otopark"
+  ]
+ },
+ {
+  "slug": "cigli",
+  "name": "Çiğli",
+  "de": "Çiğli'de",
+  "region": "kuzey",
+  "tags": [
+   "sanayi",
+   "merkez",
+   "konut"
+  ],
+  "intro": "Çiğli, Atatürk Organize Sanayi Bölgesi'ne ev sahipliği yapan, hızla büyüyen konut alanları ve Sasalı-Harmandalı gibi çevre mahallelerdeki daha kırsal dokuyu bir arada barındıran bir ilçedir.",
+  "local": "Çiğli, kuzey aksında yer aldığı için Aliağa'daki adresimizden yapılan keşif planlamasında kolay erişilen ilçelerdendir.",
+  "areas": [
+   "Atatürk OSB çevresi",
+   "Harmandalı",
+   "Sasalı",
+   "Ataşehir"
+  ],
+  "climate": "Körfeze yakın düzlük alanlarda nem ve deniz havası, sanayi alanlarında ise ağır kullanım koşulları metal işlerinin detaylandırılmasında dikkate alınır.",
+  "neighbors": [
+   "karsiyaka",
+   "menemen",
+   "bayrakli",
+   "aliaga"
+  ],
+  "faq": {
+   "q": "Çiğli'deki fabrikamız için hangi metal işleri yapılabilir?",
+   "a": "Depo ve hangar ilaveleri, çatı ve cephe sac yenileme, çalışma platformları, merdivenler, korkuluklar ve giriş kapıları gibi işler değerlendirilebilir. İhtiyacınızı fotoğraf ve ölçülerle paylaşmanız ön değerlendirme için yeterlidir."
+  },
+  "focus": [
+   "endustriyel-metal-imalat",
+   "metal-imalat",
+   "celik-konstruksiyon",
+   "celik-iskele",
+   "metal-merdiven",
+   "celik-surgulu-kapi",
+   "demir-dograma",
+   "korkuluk",
+   "celik-cati"
+  ]
+ },
+ {
+  "slug": "dikili",
+  "name": "Dikili",
+  "de": "Dikili'de",
+  "region": "kuzey",
+  "tags": [
+   "kiyi",
+   "tarim",
+   "sera",
+   "turizm",
+   "konut"
+  ],
+  "intro": "Dikili, kıyı turizmi ve yazlık yerleşimlerinin yanında jeotermal kaynaklara dayalı sera yatırımları ve tarımsal üretimiyle öne çıkan, İzmir'in kuzey kıyısındaki bir ilçedir.",
+  "local": "Dikili, Aliağa ve Bergama hattı üzerinden ulaşılan kuzey ilçelerimizdendir; keşifler bu bölgeye yönelik planlama içinde yapılır.",
+  "areas": [
+   "ilçe merkezi",
+   "Çandarlı",
+   "Bademli",
+   "Kabakum"
+  ],
+  "climate": "Kıyı şeridinde tuzlu hava ve rüzgâr, sera alanlarında ise yüksek iç nem metal konstrüksiyonda galvaniz ve iyi yüzey korumasını gerektirir.",
+  "neighbors": [
+   "bergama",
+   "aliaga",
+   "kinik"
+  ],
+  "faq": {
+   "q": "Dikili'de sera konstrüksiyonunda nelere dikkat edilmeli?",
+   "a": "Sera içindeki yüksek nem nedeniyle galvaniz kaplı taşıyıcılar, kıyıya yakın arazilerde ise rüzgâr yükü önemlidir. Sera ölçüsü ve yetiştirilecek ürün bilgisiyle uygun sistem önerilir."
+  },
+  "focus": [
+   "sera-kurulumu",
+   "celik-yapi",
+   "sundurma-pergola",
+   "bahce-kapisi",
+   "konteyner",
+   "sac-cati",
+   "ferforje"
+  ]
+ },
+ {
+  "slug": "foca",
+  "name": "Foça",
+  "de": "Foça'da",
+  "region": "kuzey",
+  "tags": [
+   "kiyi",
+   "turizm",
+   "konut",
+   "tarihi"
+  ],
+  "intro": "Foça, Eski Foça ve Yeni Foça yerleşimleriyle tarihi dokusu, koylari ve özel çevre koruma bölgesi statüsüyle bilinen bir kıyı ilçesidir. Yazlık konutlar, taş evler ve küçük turizm işletmeleri ilçenin yapı dokusunu oluşturur.",
+  "local": "Foça, adresimizin bulunduğu Aliağa'ya komşu ilçedir; keşif planlaması kuzey ilçeleriyle birlikte yapılır.",
+  "areas": [
+   "Eski Foça",
+   "Yeni Foça",
+   "Bağarası",
+   "Gerenköy"
+  ],
+  "climate": "Tuzlu deniz havası ve kuzey rüzgârları dış mekân metal elemanlarında güçlü yüzey koruması gerektirir.",
+  "neighbors": [
+   "aliaga",
+   "menemen",
+   "bergama"
+  ],
+  "faq": {
+   "q": "Foça'da koruma alanındaki evime ferforje veya korkuluk yaptırabilir miyim?",
+   "a": "Özel çevre koruma bölgesi ve sit alanlarındaki cephe değişiklikleri izne tabi olabilir. İzin durumunu belediyeden teyit ettikten sonra, mevcut dokuya uyumlu sade veya klasik tasarımlar değerlendirilebilir."
+  },
+  "focus": [
+   "ferforje",
+   "korkuluk",
+   "bahce-kapisi",
+   "sundurma-pergola",
+   "demir-dograma",
+   "celik-yapi"
+  ]
+ },
+ {
+  "slug": "gaziemir",
+  "name": "Gaziemir",
+  "de": "Gaziemir'de",
+  "region": "guney",
+  "tags": [
+   "sanayi",
+   "merkez",
+   "konut"
+  ],
+  "intro": "Gaziemir, Ege Serbest Bölgesi ve havalimanı çevresindeki iş alanları ile yerleşik konut mahallelerini bir arada barındıran, İzmir'in güney aksındaki bir ilçedir.",
+  "local": "Gaziemir'deki talepler için keşif günü, güney ilçelere yönelik planlama içinde belirlenir.",
+  "areas": [
+   "Sarnıç",
+   "Atıfbey",
+   "Gazikent",
+   "Dokuz Eylül"
+  ],
+  "climate": "Açık düzlük alanlarda rüzgâr ve yaz sıcağı; sundurma, otopark gölgeliği ve çatı uygulamalarında dikkate alınır.",
+  "neighbors": [
+   "buca",
+   "karabaglar",
+   "menderes",
+   "torbali"
+  ],
+  "faq": {
+   "q": "Gaziemir'deki iş yerimize personel otoparkı sundurması yapılabilir mi?",
+   "a": "Araç sayısı, alan ölçüsü ve tercih edilen örtü tipine göre konsol veya çift kolonlu otopark sundurmaları değerlendirilebilir. Alan fotoğrafı ve ölçüleri ön değerlendirme için yeterlidir."
+  },
+  "focus": [
+   "endustriyel-metal-imalat",
+   "metal-imalat",
+   "garaj-otopark",
+   "celik-surgulu-kapi",
+   "demir-dograma",
+   "korkuluk"
+  ]
+ },
+ {
+  "slug": "guzelbahce",
+  "name": "Güzelbahçe",
+  "de": "Güzelbahçe'de",
+  "region": "merkez",
+  "tags": [
+   "konut",
+   "kiyi"
+  ],
+  "intro": "Güzelbahçe, deniz kıyısı ile yamaçlar arasında yer alan, müstakil ve villa tipi konutların, bahçeli evlerin ve site yerleşimlerinin yoğun olduğu sakin bir ilçedir.",
+  "local": "Güzelbahçe'deki taleplerde keşif günü, batı ilçelerine yönelik planlama içinde belirlenir.",
+  "areas": [
+   "Yelki",
+   "Maltepe",
+   "Kahramandere"
+  ],
+  "climate": "Kıyıya yakın villalarda tuzlu hava, yamaçlardaki yapılarda ise rüzgâr, dış mekân metal elemanlarının detaylandırılmasında dikkate alınır.",
+  "neighbors": [
+   "narlidere",
+   "urla",
+   "seferihisar",
+   "balcova"
+  ],
+  "faq": {
+   "q": "Güzelbahçe'deki villam için bahçe kapısı ve çiti birlikte yaptırabilir miyim?",
+   "a": "Evet, bahçe kapısı, yaya kapısı ve duvar üstü çit aynı tasarım dilinde birlikte planlanabilir. Cephe fotoğrafı ve yaklaşık ölçülerle ön değerlendirme yapılır."
+  },
+  "focus": [
+   "bahce-kapisi",
+   "ferforje",
+   "korkuluk",
+   "sundurma-pergola",
+   "garaj-otopark",
+   "celik-cati"
+  ]
+ },
+ {
+  "slug": "karabaglar",
+  "name": "Karabağlar",
+  "de": "Karabağlar'da",
+  "region": "merkez",
+  "tags": [
+   "merkez",
+   "sanayi",
+   "konut"
+  ],
+  "intro": "Karabağlar, yoğun apartman dokusu, küçük sanayi ve ticaret alanları ile Uzundere ve çevresindeki yeni yerleşimleri barındıran, İzmir'in kalabalık merkez ilçelerinden biridir.",
+  "local": "Karabağlar'daki taleplerde keşif günü, merkez ve güney ilçelere yönelik planlama içinde belirlenir.",
+  "areas": [
+   "Uzundere",
+   "Eskiizmir",
+   "Bozyaka",
+   "Limontepe"
+  ],
+  "climate": "Yoğun yapılaşmanın olduğu alanlarda dar sokaklar ve sınırlı çalışma alanı, montaj planlamasında dikkate alınır.",
+  "neighbors": [
+   "konak",
+   "buca",
+   "gaziemir",
+   "balcova"
+  ],
+  "faq": {
+   "q": "Karabağlar'da dükkanım için kepenk veya demir kapı yaptırabilir miyim?",
+   "a": "Dükkan girişleri için kepenk, demir kapı veya sürgülü kapak çözümleri değerlendirilebilir. Giriş ölçüsü ve fotoğrafını WhatsApp'tan iletmeniz ön değerlendirme için yeterlidir."
+  },
+  "focus": [
+   "demir-dograma",
+   "korkuluk",
+   "metal-imalat",
+   "metal-merdiven",
+   "celik-cati"
+  ]
+ },
+ {
+  "slug": "karaburun",
+  "name": "Karaburun",
+  "de": "Karaburun'da",
+  "region": "yarimada",
+  "tags": [
+   "kiyi",
+   "tarim",
+   "hayvancilik",
+   "dag",
+   "turizm"
+  ],
+  "intro": "Karaburun, dağlık yarımada yapısı, rüzgâr enerjisi santralleri, koyları ve küçük köy yerleşimleriyle İzmir'in en sakin kıyı ilçelerinden biridir. Küçükbaş hayvancılık, zeytincilik ve yazlık konutlar ilçede bir arada görülür.",
+  "local": "Karaburun gibi yarımada ilçelerinde keşifler, iş kapsamı netleştikten sonra önceden planlanır; ön bilgi ve fotoğraflar WhatsApp üzerinden değerlendirilebilir.",
+  "areas": [
+   "ilçe merkezi",
+   "Mordoğan",
+   "Saip",
+   "Bozköy"
+  ],
+  "climate": "Yarımadada rüzgâr çok güçlü esebilir ve tuzlu hava yoğundur; çatı, sundurma ve barınak bağlantıları buna göre detaylandırılmalıdır.",
+  "neighbors": [
+   "urla",
+   "cesme"
+  ],
+  "faq": {
+   "q": "Karaburun'da keçi ağılı veya hayvan barınağı yapılabilir mi?",
+   "a": "Küçükbaş ağılları ve barınaklar çelik iskelet ve sac çatıyla kurulabilir. Arazinin rüzgâra açıklığı ve eğimi keşifte değerlendirilerek bağlantı detayları belirlenir."
+  },
+  "focus": [
+   "kumes-yapimi",
+   "celik-yapi",
+   "sundurma-pergola",
+   "sac-cati",
+   "konteyner"
+  ]
+ },
+ {
+  "slug": "karsiyaka",
+  "name": "Karşıyaka",
+  "de": "Karşıyaka'da",
+  "region": "merkez",
+  "tags": [
+   "merkez",
+   "kiyi",
+   "konut"
+  ],
+  "intro": "Karşıyaka, körfez kıyısındaki sahil şeridi, Bostanlı ve Mavişehir gibi yoğun konut bölgeleri ve köklü çarşısıyla İzmir'in en bilinen ilçelerinden biridir. Apartmanlar ve siteler yapı stokunun büyük bölümünü oluşturur.",
+  "local": "Karşıyaka, kuzey aksında yer aldığından Aliağa'daki adresimizden yapılan keşif planlamasında kolay erişilen ilçelerdendir.",
+  "areas": [
+   "Bostanlı",
+   "Mavişehir",
+   "Alaybey",
+   "Örnekköy",
+   "Yalı"
+  ],
+  "climate": "Körfeze yakın yapılarda nem ve deniz havası balkon korkuluğu, pencere demiri gibi dış mekân metal elemanlarının yüzey korumasını öne çıkarır.",
+  "neighbors": [
+   "bayrakli",
+   "cigli",
+   "bornova",
+   "menemen"
+  ],
+  "faq": {
+   "q": "Karşıyaka'da sitemizin ortak alanına korkuluk veya sundurma yaptırmak için ne gerekli?",
+   "a": "Site ortak alanlarındaki uygulamalar için yönetim kurulu veya kat malikleri kararı gerekir. Karar sonrası keşifte ölçü alınır ve tüm blokları kapsayan ortak bir model önerilebilir."
+  },
+  "focus": [
+   "demir-dograma",
+   "ferforje",
+   "korkuluk",
+   "celik-cati",
+   "sundurma-pergola",
+   "metal-merdiven",
+   "celik-yapi"
+  ]
+ },
+ {
+  "slug": "kemalpasa",
+  "name": "Kemalpaşa",
+  "de": "Kemalpaşa'da",
+  "region": "dogu",
+  "tags": [
+   "sanayi",
+   "tarim",
+   "konut"
+  ],
+  "intro": "Kemalpaşa, organize sanayi bölgesi ve çevresindeki fabrikalarıyla önemli bir sanayi merkezi olmasının yanında kirazıyla bilinen tarım alanları ve bahçeli yerleşimleriyle de öne çıkan bir ilçedir.",
+  "local": "Kemalpaşa'daki taleplerde keşif günü, doğu ilçelerine yönelik planlama içinde belirlenir.",
+  "areas": [
+   "Kemalpaşa OSB çevresi",
+   "Ansızca",
+   "Ulucak",
+   "Armutlu"
+  ],
+  "climate": "İç kesimde yaz sıcakları ve kış soğukları belirgindir; depo ve tesis çatılarında yalıtım tercihi bu koşullara göre yapılmalıdır.",
+  "neighbors": [
+   "bornova",
+   "torbali",
+   "bayindir"
+  ],
+  "faq": {
+   "q": "Kemalpaşa'da kiraz bahçemiz için depo veya sundurma yaptırabilir miyiz?",
+   "a": "Ürün ve ekipman için sac çatılı sundurmalar ya da kapalı depolar değerlendirilebilir. Ürünün sıcaktan etkilenmesi önemliyse sandviç panel çatı ve cephe önerilir."
+  },
+  "focus": [
+   "endustriyel-metal-imalat",
+   "celik-konstruksiyon",
+   "metal-imalat",
+   "celik-iskele",
+   "celik-surgulu-kapi",
+   "sac-cati",
+   "sundurma-pergola",
+   "bahce-kapisi"
+  ]
+ },
+ {
+  "slug": "kinik",
+  "name": "Kınık",
+  "de": "Kınık'ta",
+  "region": "kuzey",
+  "tags": [
+   "tarim",
+   "hayvancilik"
+  ],
+  "intro": "Kınık, Bakırçay havzasında yer alan, ekonomisi büyük ölçüde tarım ve hayvancılığa dayanan, İzmir'in kuzeydoğusundaki bir ilçedir.",
+  "local": "Kınık'taki keşifler, Bergama hattındaki kuzey ilçelerine yönelik planlama içinde yapılır.",
+  "areas": [
+   "ilçe merkezi",
+   "Poyracık",
+   "çevre köyler"
+  ],
+  "climate": "İç kesimde yaz sıcakları yüksek, kışlar ise kıyıya göre daha soğuktur; barınak ve depo yapılarında havalandırma ve yalıtım dengesi önem taşır.",
+  "neighbors": [
+   "bergama",
+   "dikili",
+   "aliaga"
+  ],
+  "faq": {
+   "q": "Kınık'ta besi ahırı için çelik yapı yapılabilir mi?",
+   "a": "Büyükbaş barınakları çelik konstrüksiyon, sac çatı, metal bölme ve yemliklerle birlikte planlanabilir. Hayvan sayısı ve arazi bilgisi ile ön değerlendirme yapılır."
+  },
+  "focus": [
+   "kumes-yapimi",
+   "sac-cati",
+   "celik-konstruksiyon",
+   "sundurma-pergola"
+  ]
+ },
+ {
+  "slug": "kiraz",
+  "name": "Kiraz",
+  "de": "Kiraz'da",
+  "region": "dogu",
+  "tags": [
+   "tarim",
+   "hayvancilik",
+   "dag"
+  ],
+  "intro": "Kiraz, Küçük Menderes havzasının doğusunda, dağlık ve yeşil bir arazide yer alan; tarım ve özellikle süt hayvancılığının önemli geçim kaynağı olduğu bir ilçedir.",
+  "local": "Kiraz gibi uzak ilçelerde keşifler, iş kapsamı netleştikten sonra önceden planlanır; ön bilgi ve fotoğraflar WhatsApp üzerinden değerlendirilebilir.",
+  "areas": [
+   "ilçe merkezi",
+   "yayla ve dağ köyleri"
+  ],
+  "climate": "Dağlık kesimlerde kış aylarında kar ve soğuk görülebilir; çatı eğimi ve barınak cephe detayları bu koşullara göre belirlenmelidir.",
+  "neighbors": [
+   "beydag",
+   "odemis",
+   "bayindir"
+  ],
+  "faq": {
+   "q": "Kiraz'da ahır çatısı kar yüküne göre nasıl planlanır?",
+   "a": "Kar yükü beklenen bölgelerde çatı eğimi artırılabilir ve profil kesitleri buna göre seçilir. Keşifte arazinin rakımı ve konumu dikkate alınır."
+  },
+  "focus": [
+   "kumes-yapimi",
+   "sac-cati",
+   "celik-cati",
+   "sundurma-pergola"
+  ]
+ },
+ {
+  "slug": "konak",
+  "name": "Konak",
+  "de": "Konak'ta",
+  "region": "merkez",
+  "tags": [
+   "merkez",
+   "tarihi",
+   "turizm"
+  ],
+  "intro": "Konak, Kemeraltı Çarşısı, Alsancak ve tarihi yapılarıyla İzmir'in ticari ve kültürel merkezidir. Eski apartmanlar, tarihi dokudaki yapılar, dükkanlar ve kafe-restoranlar ilçenin yapı stokunu oluşturur.",
+  "local": "Konak'taki talepler için keşif günü, merkez ilçelere yönelik planlama içinde belirlenir; dar sokaklar ve park koşulları montaj planına dahil edilir.",
+  "areas": [
+   "Alsancak",
+   "Kemeraltı",
+   "Göztepe",
+   "Hatay",
+   "Kahramanlar"
+  ],
+  "climate": "Kıyıya yakın binalarda deniz havası ve nem, eski binalarda ise mevcut duvar ve döşeme yapısı metal elemanların montaj detaylarını belirler.",
+  "neighbors": [
+   "karabaglar",
+   "bayrakli",
+   "balcova",
+   "buca"
+  ],
+  "faq": {
+   "q": "Konak'taki tarihi bir binada demir doğrama veya korkuluk yenilenebilir mi?",
+   "a": "Tescilli veya sit alanındaki yapılarda cephe değişiklikleri koruma kurulu ve belediye iznine tabi olabilir. İzin süreci tamamlandıktan sonra mevcut detaylara uygun imalat yapılabilir."
+  },
+  "focus": [
+   "demir-dograma",
+   "ferforje",
+   "korkuluk",
+   "celik-cati",
+   "metal-merdiven"
+  ]
+ },
+ {
+  "slug": "menderes",
+  "name": "Menderes",
+  "de": "Menderes'te",
+  "region": "guney",
+  "tags": [
+   "kiyi",
+   "tarim",
+   "konut",
+   "turizm"
+  ],
+  "intro": "Menderes, Gümüldür ve Özdere gibi yazlık kıyı yerleşimleri ile iç kesimdeki tarım alanları ve hızla gelişen bahçeli konut bölgelerini barındıran, İzmir'in güneyindeki geniş bir ilçedir.",
+  "local": "Menderes'teki talepler için keşif günü, güney ilçelerine yönelik planlama içinde belirlenir.",
+  "areas": [
+   "Gümüldür",
+   "Özdere",
+   "Değirmendere",
+   "Görece"
+  ],
+  "climate": "Kıyı yerleşimlerinde tuzlu hava ve rüzgâr, iç kesimlerde ise yaz sıcakları dış mekân metal işlerinde dikkate alınır.",
+  "neighbors": [
+   "gaziemir",
+   "torbali",
+   "seferihisar",
+   "selcuk"
+  ],
+  "faq": {
+   "q": "Menderes'te yazlık evim için hangi metal işleri yapılabilir?",
+   "a": "Bahçe kapısı, pencere demiri, balkon korkuluğu, teras sundurması ve araç gölgeliği gibi işler değerlendirilebilir. Kıyıya yakın yapılarda yüzey koruması özellikle önemlidir."
+  },
+  "focus": [
+   "celik-yapi",
+   "bahce-kapisi",
+   "ferforje",
+   "sundurma-pergola",
+   "garaj-otopark",
+   "sera-kurulumu",
+   "konteyner"
+  ]
+ },
+ {
+  "slug": "menemen",
+  "name": "Menemen",
+  "de": "Menemen'de",
+  "region": "kuzey",
+  "tags": [
+   "tarim",
+   "hayvancilik",
+   "sanayi",
+   "konut",
+   "sera"
+  ],
+  "intro": "Menemen, Gediz ovasındaki verimli tarım arazileri, hayvancılık işletmeleri, sanayi tesisleri ve çömlekçilik geleneğiyle bilinen; Ulukent ve Seyrek gibi gelişen yerleşimleriyle büyüyen bir kuzey ilçesidir.",
+  "local": "Menemen, Aliağa'daki adresimize yakın kuzey ilçelerindendir; ova ve köy işlerinde keşif planlaması konum bilgisine göre yapılır.",
+  "areas": [
+   "Ulukent",
+   "Seyrek",
+   "Emiralem",
+   "Koyundere"
+  ],
+  "climate": "Ovada yaz sıcakları ve nem, sera ve barınak yapılarında havalandırma ile korozyon korumasını öne çıkarır.",
+  "neighbors": [
+   "aliaga",
+   "cigli",
+   "foca",
+   "karsiyaka"
+  ],
+  "faq": {
+   "q": "Menemen'de kümes veya ahır yaptırmak istiyorum, nasıl başlamalıyım?",
+   "a": "Hayvan türü ve sayısı, arazi ölçüsü ve konumunu paylaşmanız ilk adım için yeterlidir. İzin gereklilikleri için ilgili kurumlara danışmanızı öneririz; keşif sonrası yerleşim ve yapı önerisi hazırlanır."
+  },
+  "focus": [
+   "kumes-yapimi",
+   "sera-kurulumu",
+   "sac-cati",
+   "celik-konstruksiyon",
+   "endustriyel-metal-imalat",
+   "sundurma-pergola",
+   "demir-dograma",
+   "bahce-kapisi",
+   "celik-cati",
+   "konteyner"
+  ]
+ },
+ {
+  "slug": "narlidere",
+  "name": "Narlıdere",
+  "de": "Narlıdere'de",
+  "region": "merkez",
+  "tags": [
+   "konut",
+   "merkez"
+  ],
+  "intro": "Narlıdere, Balçova ile Güzelbahçe arasında yer alan; apartmanlar, siteler ve yamaçlardaki müstakil evlerden oluşan, ağırlıklı olarak konut ilçesidir.",
+  "local": "Narlıdere'deki taleplerde keşif günü, batı ilçelerine yönelik planlama içinde belirlenir.",
+  "areas": [
+   "Narlı",
+   "Çamtepe",
+   "Huzur",
+   "Atatürk"
+  ],
+  "climate": "Yamaçlardaki yapılarda rüzgâr ve deniz havası dış mekân metal elemanlarında yüzey korumasını önemli kılar.",
+  "neighbors": [
+   "balcova",
+   "guzelbahce",
+   "konak"
+  ],
+  "faq": {
+   "q": "Narlıdere'de teras üstüne sundurma yaptırabilir miyim?",
+   "a": "Teras sundurmaları ölçüye göre planlanabilir; apartmanlarda kat malikleri kararı ve belediye izni gerekebilir. Müstakil evlerde ise bağlantı detayları keşifte değerlendirilir."
+  },
+  "focus": [
+   "demir-dograma",
+   "korkuluk",
+   "ferforje",
+   "sundurma-pergola"
+  ]
+ },
+ {
+  "slug": "odemis",
+  "name": "Ödemiş",
+  "de": "Ödemiş'te",
+  "region": "dogu",
+  "tags": [
+   "tarim",
+   "hayvancilik",
+   "dag",
+   "tarihi",
+   "konut"
+  ],
+  "intro": "Ödemiş, Küçük Menderes ovasındaki tarım üretimi, hayvancılık işletmeleri, Bozdağ yaylası ve tarihi Birgi köyüyle İzmir'in doğusundaki en büyük ilçelerden biridir.",
+  "local": "Ödemiş gibi iç bölge ilçelerinde keşifler, iş kapsamı netleştikten sonra önceden planlanır.",
+  "areas": [
+   "ilçe merkezi",
+   "Birgi",
+   "Bozdağ",
+   "Kaymakçı"
+  ],
+  "climate": "Ovada yaz sıcakları yüksektir; Bozdağ gibi yüksek kesimlerde ise kış aylarında yoğun kar görülebileceğinden çatı sistemleri kar yüküne göre planlanmalıdır.",
+  "neighbors": [
+   "tire",
+   "bayindir",
+   "kiraz",
+   "beydag"
+  ],
+  "faq": {
+   "q": "Ödemiş Bozdağ'daki yayla evim için çelik çatı uygun mu?",
+   "a": "Çelik çatı yüksek kesimlerde de uygulanabilir; ancak kar yükü nedeniyle çatı eğimi ve profil kesitleri buna göre seçilmelidir. Keşifte rakım ve konum dikkate alınır."
+  },
+  "focus": [
+   "kumes-yapimi",
+   "sac-cati",
+   "celik-cati",
+   "celik-konstruksiyon",
+   "sundurma-pergola",
+   "bahce-kapisi",
+   "ferforje"
+  ]
+ },
+ {
+  "slug": "seferihisar",
+  "name": "Seferihisar",
+  "de": "Seferihisar'da",
+  "region": "yarimada",
+  "tags": [
+   "kiyi",
+   "tarim",
+   "turizm",
+   "konut"
+  ],
+  "intro": "Seferihisar, Türkiye'nin ilk sakin şehir (Cittaslow) unvanını alan, Sığacık kalesi ve limanı, mandalina bahçeleri ve yazlık yerleşimleriyle bilinen bir kıyı ilçesidir.",
+  "local": "Seferihisar'daki taleplerde keşif günü, yarımada ve güney ilçelerine yönelik planlama içinde belirlenir.",
+  "areas": [
+   "Sığacık",
+   "Doğanbey",
+   "Ürkmez",
+   "Payamlı"
+  ],
+  "climate": "Kıyı yerleşimlerinde tuzlu hava ve rüzgâr, metal elemanlarda güçlü yüzey koruması ve sağlam bağlantı detayları gerektirir.",
+  "neighbors": [
+   "urla",
+   "menderes",
+   "guzelbahce",
+   "cesme"
+  ],
+  "faq": {
+   "q": "Seferihisar'da bahçemize sera veya depo kurulabilir mi?",
+   "a": "Bahçe ölçeğindeki hobi seraları ve küçük depolar değerlendirilebilir. Tarım arazilerindeki yapılar için yapılaşma koşullarını belediyeden teyit etmeniz önerilir."
+  },
+  "focus": [
+   "celik-yapi",
+   "sundurma-pergola",
+   "bahce-kapisi",
+   "ferforje",
+   "sera-kurulumu",
+   "konteyner"
+  ]
+ },
+ {
+  "slug": "selcuk",
+  "name": "Selçuk",
+  "de": "Selçuk'ta",
+  "region": "guney",
+  "tags": [
+   "turizm",
+   "tarihi",
+   "tarim",
+   "konut"
+  ],
+  "intro": "Selçuk, Efes Antik Kenti ve Şirince köyüyle uluslararası turizmin önemli durağı olan, çevresinde tarım arazileri ve bahçeli yerleşimler bulunan bir ilçedir.",
+  "local": "Selçuk'taki talepler için keşif günü, güney ilçelerine yönelik planlama içinde belirlenir.",
+  "areas": [
+   "ilçe merkezi",
+   "Şirince",
+   "Pamucak",
+   "Belevi"
+  ],
+  "climate": "Ovada yaz sıcakları yüksektir; kıyıya yakın kesimlerde ise deniz havası dış mekân metal işlerinde dikkate alınır.",
+  "neighbors": [
+   "menderes",
+   "torbali",
+   "tire"
+  ],
+  "faq": {
+   "q": "Selçuk'taki pansiyonumuz için ferforje kapı ve korkuluk yaptırabilir miyiz?",
+   "a": "Butik konaklama işletmeleri için ferforje kapı, korkuluk ve dekoratif detaylar değerlendirilebilir. Sit alanı kapsamındaki yapılarda izin durumunun önceden teyit edilmesi önerilir."
+  },
+  "focus": [
+   "ferforje",
+   "korkuluk",
+   "bahce-kapisi",
+   "sundurma-pergola",
+   "celik-yapi"
+  ]
+ },
+ {
+  "slug": "tire",
+  "name": "Tire",
+  "de": "Tire'de",
+  "region": "dogu",
+  "tags": [
+   "tarim",
+   "hayvancilik",
+   "sanayi",
+   "tarihi",
+   "konut"
+  ],
+  "intro": "Tire, süt hayvancılığı ve tarım üretimiyle güçlü bir yerel ekonomiye sahip, tarihi çarşısı ve gelişen sanayi alanlarıyla İzmir'in köklü iç bölge ilçelerinden biridir.",
+  "local": "Tire gibi iç bölge ilçelerinde keşifler, iş kapsamı netleştikten sonra önceden planlanır.",
+  "areas": [
+   "ilçe merkezi",
+   "çevre köyler"
+  ],
+  "climate": "İç kesimde yaz sıcakları ve kış soğukları belirgindir; barınak ve depo yapılarında havalandırma ve yalıtım planlaması önemlidir.",
+  "neighbors": [
+   "odemis",
+   "bayindir",
+   "torbali",
+   "selcuk"
+  ],
+  "faq": {
+   "q": "Tire'de süt sığırı ahırı için çelik yapı yapılabilir mi?",
+   "a": "Çelik ahırlar yem koridoru, metal bölmeler, yüksek mahya havalandırması ve sac çatıyla birlikte planlanabilir. Hayvan sayısı ve arazi bilgisi ile ön değerlendirme yapılır."
+  },
+  "focus": [
+   "kumes-yapimi",
+   "sac-cati",
+   "celik-konstruksiyon",
+   "endustriyel-metal-imalat",
+   "sundurma-pergola",
+   "demir-dograma",
+   "celik-cati"
+  ]
+ },
+ {
+  "slug": "torbali",
+  "name": "Torbalı",
+  "de": "Torbalı'da",
+  "region": "guney",
+  "tags": [
+   "sanayi",
+   "tarim",
+   "konut",
+   "hayvancilik"
+  ],
+  "intro": "Torbalı, çok sayıda fabrika ve organize sanayi alanıyla İzmir'in önemli sanayi ilçelerinden biri olurken; Ayrancılar gibi hızla büyüyen konut bölgeleri ve çevresindeki tarım arazileriyle de karma bir yapı sunar.",
+  "local": "Torbalı'daki talepler için keşif günü, güney ilçelerine yönelik planlama içinde belirlenir.",
+  "areas": [
+   "Ayrancılar",
+   "Pancar",
+   "Tepeköy",
+   "Yazıbaşı"
+  ],
+  "climate": "Ovada yaz sıcakları belirgindir; depo, tesis ve sundurma çatılarında örtü ve yalıtım seçimi bu koşullara göre yapılmalıdır.",
+  "neighbors": [
+   "menderes",
+   "kemalpasa",
+   "bayindir",
+   "gaziemir"
+  ],
+  "faq": {
+   "q": "Torbalı'daki fabrikamıza çelik sürgülü kapı yaptırabilir miyiz?",
+   "a": "Kamyon ve forklift geçişine uygun geniş açıklıklı, ağır hizmet tipi sürgülü kapılar değerlendirilebilir. Açıklık ölçüsü, zemin durumu ve motor ihtiyacı teklifin temel bilgileridir."
+  },
+  "focus": [
+   "endustriyel-metal-imalat",
+   "celik-konstruksiyon",
+   "metal-imalat",
+   "celik-iskele",
+   "celik-surgulu-kapi",
+   "sac-cati",
+   "demir-dograma",
+   "bahce-kapisi",
+   "sundurma-pergola"
+  ]
+ },
+ {
+  "slug": "urla",
+  "name": "Urla",
+  "de": "Urla'da",
+  "region": "yarimada",
+  "tags": [
+   "kiyi",
+   "konut",
+   "tarim",
+   "turizm",
+   "sera"
+  ],
+  "intro": "Urla, bağları ve şarapçılığı, enginarı, tarihi çarşısı ve kıyıdaki yazlık-villa yerleşimleriyle İzmir'in en çok tercih edilen yarımada ilçelerinden biridir. Müstakil bahçeli evler ve tarım arazileri ilçede geniş yer tutar.",
+  "local": "Urla'daki taleplerde keşif günü, yarımada ilçelerine yönelik planlama içinde belirlenir.",
+  "areas": [
+   "İskele",
+   "Kuşçular",
+   "Zeytinalanı",
+   "Bademler",
+   "Çeşmealtı"
+  ],
+  "climate": "Kıyıda tuzlu hava ve yarımadanın rüzgârı, bahçe kapısı, sundurma ve sera gibi dış mekân metal işlerinde sağlam bağlantı ve iyi yüzey koruması gerektirir.",
+  "neighbors": [
+   "cesme",
+   "guzelbahce",
+   "seferihisar",
+   "karaburun"
+  ],
+  "faq": {
+   "q": "Urla'da bağ evime pergola ve bahçe kapısı yaptırabilir miyim?",
+   "a": "Bağ ve bahçe evleri için pergola, sundurma ve bahçe kapısı aynı tasarım dilinde planlanabilir. Tarım arazilerindeki yapılaşma koşullarını belediyeden teyit etmenizi öneririz."
+  },
+  "focus": [
+   "bahce-kapisi",
+   "ferforje",
+   "sundurma-pergola",
+   "celik-yapi",
+   "korkuluk",
+   "sera-kurulumu",
+   "garaj-otopark",
+   "konteyner"
+  ]
+ }
+]

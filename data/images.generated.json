@@ -1,0 +1,710 @@
+{
+ "prefabrik-konteyner-yapi-kirmizi-cati": {
+  "width": 720,
+  "height": 960,
+  "variants": [
+   {
+    "w": 480,
+    "h": 640
+   },
+   {
+    "w": 720,
+    "h": 960
+   }
+  ]
+ },
+ "ferforje-motifli-bahce-kapisi-ve-cit": {
+  "width": 960,
+  "height": 720,
+  "variants": [
+   {
+    "w": 480,
+    "h": 360
+   },
+   {
+    "w": 960,
+    "h": 720
+   }
+  ]
+ },
+ "mustakil-ev-uzeri-celik-cati-iskeleti": {
+  "width": 960,
+  "height": 960,
+  "variants": [
+   {
+    "w": 480,
+    "h": 480
+   },
+   {
+    "w": 960,
+    "h": 960
+   }
+  ]
+ },
+ "surgulu-kapili-prefabrik-konteyner-ev": {
+  "width": 720,
+  "height": 540,
+  "variants": [
+   {
+    "w": 480,
+    "h": 360
+   },
+   {
+    "w": 720,
+    "h": 540
+   }
+  ]
+ },
+ "vinc-ile-celik-kafes-kiris-montaji": {
+  "width": 720,
+  "height": 540,
+  "variants": [
+   {
+    "w": 480,
+    "h": 360
+   },
+   {
+    "w": 720,
+    "h": 540
+   }
+  ]
+ },
+ "celik-cati-ve-trapez-sac-kaplama-montaji": {
+  "width": 1200,
+  "height": 1600,
+  "variants": [
+   {
+    "w": 480,
+    "h": 640
+   },
+   {
+    "w": 960,
+    "h": 1280
+   },
+   {
+    "w": 1200,
+    "h": 1600
+   }
+  ]
+ },
+ "kafes-kirisli-celik-sundurma": {
+  "width": 960,
+  "height": 720,
+  "variants": [
+   {
+    "w": 480,
+    "h": 360
+   },
+   {
+    "w": 960,
+    "h": 720
+   }
+  ]
+ },
+ "ferforje-desenli-celik-giris-kapisi": {
+  "width": 720,
+  "height": 960,
+  "variants": [
+   {
+    "w": 480,
+    "h": 640
+   },
+   {
+    "w": 720,
+    "h": 960
+   }
+  ]
+ },
+ "ferforje-suslemeli-cift-kanat-bahce-kapisi": {
+  "width": 960,
+  "height": 720,
+  "variants": [
+   {
+    "w": 480,
+    "h": 360
+   },
+   {
+    "w": 960,
+    "h": 720
+   }
+  ]
+ },
+ "iki-katli-celik-konstruksiyon-iskelet": {
+  "width": 960,
+  "height": 720,
+  "variants": [
+   {
+    "w": 480,
+    "h": 360
+   },
+   {
+    "w": 960,
+    "h": 720
+   }
+  ]
+ },
+ "celik-konstruksiyon-hayvan-barinagi": {
+  "width": 720,
+  "height": 540,
+  "variants": [
+   {
+    "w": 480,
+    "h": 360
+   },
+   {
+    "w": 720,
+    "h": 540
+   }
+  ]
+ },
+ "a-tipi-celik-yapi-iskeleti": {
+  "width": 720,
+  "height": 960,
+  "variants": [
+   {
+    "w": 480,
+    "h": 640
+   },
+   {
+    "w": 720,
+    "h": 960
+   }
+  ]
+ },
+ "arazide-celik-sundurma-iskeleti": {
+  "width": 960,
+  "height": 720,
+  "variants": [
+   {
+    "w": 480,
+    "h": 360
+   },
+   {
+    "w": 960,
+    "h": 720
+   }
+  ]
+ },
+ "balkon-metal-korkuluk-uygulamasi": {
+  "width": 900,
+  "height": 663,
+  "variants": [
+   {
+    "w": 480,
+    "h": 354
+   },
+   {
+    "w": 900,
+    "h": 663
+   }
+  ]
+ },
+ "merdiven-ve-balkon-metal-korkulugu": {
+  "width": 900,
+  "height": 663,
+  "variants": [
+   {
+    "w": 480,
+    "h": 354
+   },
+   {
+    "w": 900,
+    "h": 663
+   }
+  ]
+ },
+ "beyaz-trapez-sac-cati-kaplamasi": {
+  "width": 1600,
+  "height": 1200,
+  "variants": [
+   {
+    "w": 480,
+    "h": 360
+   },
+   {
+    "w": 960,
+    "h": 720
+   },
+   {
+    "w": 1600,
+    "h": 1200
+   }
+  ]
+ },
+ "apartman-cati-kati-celik-cati": {
+  "width": 1440,
+  "height": 1920,
+  "variants": [
+   {
+    "w": 480,
+    "h": 640
+   },
+   {
+    "w": 960,
+    "h": 1280
+   },
+   {
+    "w": 1440,
+    "h": 1920
+   }
+  ]
+ },
+ "cati-sac-panel-kaplama-montaji": {
+  "width": 1920,
+  "height": 1080,
+  "variants": [
+   {
+    "w": 480,
+    "h": 270
+   },
+   {
+    "w": 960,
+    "h": 540
+   },
+   {
+    "w": 1600,
+    "h": 900
+   }
+  ]
+ },
+ "genis-acikli-celik-sundurma": {
+  "width": 960,
+  "height": 720,
+  "variants": [
+   {
+    "w": 480,
+    "h": 360
+   },
+   {
+    "w": 960,
+    "h": 720
+   }
+  ]
+ },
+ "celik-cati-kafes-kiris-konstruksiyonu": {
+  "width": 1920,
+  "height": 1440,
+  "variants": [
+   {
+    "w": 480,
+    "h": 360
+   },
+   {
+    "w": 960,
+    "h": 720
+   },
+   {
+    "w": 1600,
+    "h": 1200
+   }
+  ]
+ },
+ "genis-acikli-celik-cati-iskeleti": {
+  "width": 1920,
+  "height": 1440,
+  "variants": [
+   {
+    "w": 480,
+    "h": 360
+   },
+   {
+    "w": 960,
+    "h": 720
+   },
+   {
+    "w": 1600,
+    "h": 1200
+   }
+  ]
+ },
+ "celik-makas-ve-asik-montaji": {
+  "width": 1440,
+  "height": 1920,
+  "variants": [
+   {
+    "w": 480,
+    "h": 640
+   },
+   {
+    "w": 960,
+    "h": 1280
+   },
+   {
+    "w": 1440,
+    "h": 1920
+   }
+  ]
+ },
+ "sac-kaplamali-celik-depo-yapi": {
+  "width": 1920,
+  "height": 1440,
+  "variants": [
+   {
+    "w": 480,
+    "h": 360
+   },
+   {
+    "w": 960,
+    "h": 720
+   },
+   {
+    "w": 1600,
+    "h": 1200
+   }
+  ]
+ },
+ "tek-katli-ev-celik-cati-makaslari": {
+  "width": 1920,
+  "height": 1440,
+  "variants": [
+   {
+    "w": 480,
+    "h": 360
+   },
+   {
+    "w": 960,
+    "h": 720
+   },
+   {
+    "w": 1600,
+    "h": 1200
+   }
+  ]
+ },
+ "beton-teras-uzeri-celik-cati-makaslari": {
+  "width": 1080,
+  "height": 1440,
+  "variants": [
+   {
+    "w": 480,
+    "h": 640
+   },
+   {
+    "w": 960,
+    "h": 1280
+   },
+   {
+    "w": 1080,
+    "h": 1440
+   }
+  ]
+ },
+ "sac-kaplamali-celik-hangar": {
+  "width": 1920,
+  "height": 1440,
+  "variants": [
+   {
+    "w": 480,
+    "h": 360
+   },
+   {
+    "w": 960,
+    "h": 720
+   },
+   {
+    "w": 1600,
+    "h": 1200
+   }
+  ]
+ },
+ "sac-catili-bahce-sundurmasi": {
+  "width": 1080,
+  "height": 810,
+  "variants": [
+   {
+    "w": 480,
+    "h": 360
+   },
+   {
+    "w": 960,
+    "h": 720
+   },
+   {
+    "w": 1080,
+    "h": 810
+   }
+  ]
+ },
+ "iki-katli-celik-yapi-cephe-asamasi": {
+  "width": 719,
+  "height": 970,
+  "variants": [
+   {
+    "w": 480,
+    "h": 648
+   },
+   {
+    "w": 719,
+    "h": 970
+   }
+  ]
+ },
+ "tamamlanmis-iki-katli-celik-ev": {
+  "width": 719,
+  "height": 1009,
+  "variants": [
+   {
+    "w": 480,
+    "h": 674
+   },
+   {
+    "w": 719,
+    "h": 1009
+   }
+  ]
+ },
+ "verandali-tek-katli-celik-ev": {
+  "width": 719,
+  "height": 392,
+  "variants": [
+   {
+    "w": 480,
+    "h": 262
+   },
+   {
+    "w": 719,
+    "h": 392
+   }
+  ]
+ },
+ "tas-temelli-tek-katli-celik-ev": {
+  "width": 719,
+  "height": 392,
+  "variants": [
+   {
+    "w": 480,
+    "h": 262
+   },
+   {
+    "w": 719,
+    "h": 392
+   }
+  ]
+ },
+ "celik-yapi-dis-cephe-levha-kaplama": {
+  "width": 1200,
+  "height": 1600,
+  "variants": [
+   {
+    "w": 480,
+    "h": 640
+   },
+   {
+    "w": 960,
+    "h": 1280
+   },
+   {
+    "w": 1200,
+    "h": 1600
+   }
+  ]
+ },
+ "teras-ustu-celik-sundurma": {
+  "width": 1600,
+  "height": 1200,
+  "variants": [
+   {
+    "w": 480,
+    "h": 360
+   },
+   {
+    "w": 960,
+    "h": 720
+   },
+   {
+    "w": 1600,
+    "h": 1200
+   }
+  ]
+ },
+ "prefabrik-bufe-konteyner": {
+  "width": 1080,
+  "height": 794,
+  "variants": [
+   {
+    "w": 480,
+    "h": 353
+   },
+   {
+    "w": 960,
+    "h": 706
+   },
+   {
+    "w": 1080,
+    "h": 794
+   }
+  ]
+ },
+ "celik-yapi-cephe-yalitim-kaplama": {
+  "width": 900,
+  "height": 1600,
+  "variants": [
+   {
+    "w": 480,
+    "h": 853
+   },
+   {
+    "w": 900,
+    "h": 1600
+   }
+  ]
+ },
+ "celik-konstruksiyon-ahir-besi-barinagi": {
+  "width": 1200,
+  "height": 1600,
+  "variants": [
+   {
+    "w": 480,
+    "h": 640
+   },
+   {
+    "w": 960,
+    "h": 1280
+   },
+   {
+    "w": 1200,
+    "h": 1600
+   }
+  ]
+ },
+ "trapez-sac-cati-kaplama": {
+  "width": 1600,
+  "height": 1200,
+  "variants": [
+   {
+    "w": 480,
+    "h": 360
+   },
+   {
+    "w": 960,
+    "h": 720
+   },
+   {
+    "w": 1600,
+    "h": 1200
+   }
+  ]
+ },
+ "celik-sundurma-iskeleti-montaji": {
+  "width": 1600,
+  "height": 1200,
+  "variants": [
+   {
+    "w": 480,
+    "h": 360
+   },
+   {
+    "w": 960,
+    "h": 720
+   },
+   {
+    "w": 1600,
+    "h": 1200
+   }
+  ]
+ },
+ "ferforje-motifli-pencere-demiri": {
+  "width": 1080,
+  "height": 1440,
+  "variants": [
+   {
+    "w": 480,
+    "h": 640
+   },
+   {
+    "w": 960,
+    "h": 1280
+   },
+   {
+    "w": 1080,
+    "h": 1440
+   }
+  ]
+ },
+ "prefabrik-konteyner-ofis": {
+  "width": 720,
+  "height": 511,
+  "variants": [
+   {
+    "w": 480,
+    "h": 341
+   },
+   {
+    "w": 720,
+    "h": 511
+   }
+  ]
+ },
+ "sac-kaplamali-tarim-deposu": {
+  "width": 1200,
+  "height": 1600,
+  "variants": [
+   {
+    "w": 480,
+    "h": 640
+   },
+   {
+    "w": 960,
+    "h": 1280
+   },
+   {
+    "w": 1200,
+    "h": 1600
+   }
+  ]
+ },
+ "celik-hangar-genis-giris": {
+  "width": 1600,
+  "height": 1200,
+  "variants": [
+   {
+    "w": 480,
+    "h": 360
+   },
+   {
+    "w": 960,
+    "h": 720
+   },
+   {
+    "w": 1600,
+    "h": 1200
+   }
+  ]
+ },
+ "celik-hangar-ic-gorunum": {
+  "width": 1600,
+  "height": 1200,
+  "variants": [
+   {
+    "w": 480,
+    "h": 360
+   },
+   {
+    "w": 960,
+    "h": 720
+   },
+   {
+    "w": 1600,
+    "h": 1200
+   }
+  ]
+ },
+ "vinc-ile-celik-makas-montaji": {
+  "width": 1600,
+  "height": 1200,
+  "variants": [
+   {
+    "w": 480,
+    "h": 360
+   },
+   {
+    "w": 960,
+    "h": 720
+   },
+   {
+    "w": 1600,
+    "h": 1200
+   }
+  ]
+ }
+}

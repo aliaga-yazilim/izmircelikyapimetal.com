@@ -1,0 +1,44 @@
+{
+  "_note": "Merkezi işletme ayarları. Boş bırakılan (null) alanlar sitede gösterilmez. Değiştirdikten sonra `npm run build` çalıştırın.",
+  "brandName": "İzmir Çelik Yapı Ferforje",
+  "_brandNameNote": "GEÇİCİ MARKA ADI: gerçek firma adını buraya yazın.",
+  "brandShort": "Çelik Yapı Ferforje",
+  "logoTop": "İZMİR",
+  "logoMain": "ÇELİK YAPI",
+  "logoSub": "FERFORJE · METAL İMALAT",
+  "logo": null,
+  "domain": "izmircelikyapiferforje.com",
+  "siteUrl": "https://izmircelikyapiferforje.com",
+  "whatsappPhone": "905010412435",
+  "contactPhone": "+905010412435",
+  "contactPhoneDisplay": "0501 041 24 35",
+  "email": null,
+  "social": {
+    "instagram": null,
+    "facebook": null,
+    "youtube": null
+  },
+  "address": {
+    "streetAddress": "Yeni Mah. Rumeli Caddesi No:41, 552. Sk.",
+    "addressLocality": "Aliağa",
+    "addressRegion": "İzmir",
+    "postalCode": null,
+    "addressCountry": "TR",
+    "display": "Yeni Mah. Rumeli Caddesi No:41, 552. Sk., Aliağa / İzmir"
+  },
+  "mapQuery": "Rumeli Caddesi No:41 Yeni Mahalle Aliağa İzmir",
+  "geo": null,
+  "businessHours": null,
+  "foundingYear": null,
+  "seo": {
+    "defaultTitleSuffix": "İzmir Çelik Yapı Ferforje",
+    "defaultDescription": "İzmir genelinde demir doğrama, ferforje, çelik çatı, çelik konstrüksiyon ve metal imalat. Keşif, ölçülendirme ve projeye özel teklif için WhatsApp'tan yazın.",
+    "locale": "tr_TR",
+    "themeColor": "#0B0B0B",
+    "defaultOgImage": "/assets/images/celik-cati-kafes-kiris-konstruksiyonu-og.jpg",
+    "enableFaqSchema": false,
+    "_enableFaqSchemaNote": "Google, FAQ zengin sonuçlarını 2023'ten beri yalnızca resmi devlet ve sağlık sitelerinde gösteriyor. SSS'ler sayfada görünür; JSON-LD isteğe bağlı açılabilir.",
+    "lowRelevanceCombos": "skip",
+    "_lowRelevanceCombosNote": "İlçeye uygun olmayan ilçe+hizmet kombinasyonları: 'skip' = hiç üretilmez, 'noindex' = üretilir ama noindex olur ve sitemap'e girmez."
+  }
+}

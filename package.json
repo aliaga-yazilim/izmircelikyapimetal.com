@@ -1,0 +1,16 @@
+{
+  "name": "izmir-celik-yapi-ferforje",
+  "version": "1.0.0",
+  "description": "SEO odaklı statik web sitesi (GitHub Pages)",
+  "scripts": {
+    "images": "node scripts/optimize-images.js",
+    "build": "node scripts/build.js",
+    "pages": "node scripts/generate-pages.js && node scripts/generate-sitemap.js",
+    "serve": "npx --yes http-server -p 8080 -c-1 ."
+  },
+  "devDependencies": {
+    "esbuild": "^0.28.2",
+    "sharp": "^0.35.5"
+  },
+  "private": true
+}
